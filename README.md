@@ -14,3 +14,5 @@
 
 ## Snake eating my contribution graph
 ![snake gif](https://github.com/raquelyang/raquelyang/blob/output/github-contribution-grid-snake.gif)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?raquelyang=anuraghazra&show_icons=true&theme=radical)
