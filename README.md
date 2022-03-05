@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raquel</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 
-- 💬 Ask me about **vue and gsap**
-
 - 📫 How to reach me **lorehmmoreh007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
