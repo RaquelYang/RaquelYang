@@ -28,7 +28,3 @@
 <p align="left">
   <a href="https://instagram.com/raquel_yang" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram: raquel_yang" height="30" width="40" /></a>
 </p>
-
-## Contributions
-
-![GitHub contribution snake](https://github.com/raquelyang/raquelyang/blob/output/github-contribution-grid-snake.gif)
