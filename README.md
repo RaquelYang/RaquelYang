@@ -4,9 +4,12 @@
 
 ## About Me
 
-- Frontend developer from Taiwan with **4 years of Angular development experience**
-- Experienced in building and maintaining responsive, reusable, and scalable web applications
-- Focused on clean code, maintainable architecture, and practical user experiences
+- Frontend developer from Taiwan with **4 years of professional Angular development experience**
+- Experienced in developing and maintaining an internal sales operations platform for the insurance industry
+- Started maintaining the platform with **Angular 5** and contributed to its ongoing modernization and upgrades through **Angular 18**
+- Developed and maintained features for policyholder and insurance policy searches, course information, schedule management, sales performance tracking, and insurance product introduction pages
+- Focused on improving legacy systems, building reusable components, and keeping applications maintainable as business requirements evolve
+- Committed to clean code, practical user experiences, and reliable solutions that support daily business operations
 - Email: **lorehmmoreh007@gmail.com**
 
 ## Tech Stack
